@@ -19,6 +19,8 @@
 
 /*Seguros*/
 @import url(./seguros/seguros.css);
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
 /*Termos*/
 @import url(./termos/termos.css);
