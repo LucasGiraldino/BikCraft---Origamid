@@ -24,3 +24,8 @@
 
 /*Termos*/
 @import url(./termos/termos.css);
+
+/*Bicicleta*/
+@import "../css/bicicleta/bicleta.css";
+@import "../css/bicicleta/escolha.css";
+@import "../css/bicicleta/seguro.css"
