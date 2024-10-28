@@ -11,10 +11,14 @@ h4,
 ul,
 p,
 blockquote,
-dd {
+dd,
+label,
+input {
   margin: 0px;
 }
-
+label {
+  display: flex;
+}
 ul {
   padding: 0px;
   list-style: none;
